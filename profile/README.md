@@ -31,6 +31,7 @@ Se você quer ver o que já criei, aqui estão alguns destaques:
 #### Projetos de Estudo desenvolvidos em Bootcamps e Hackathons
 
 - **[Plataforma Educacional Sustentável](https://github.com/felipemacedo1/hacka-llama-react)**: Projeto desenvolvido durante o Llama Impact Hackathon: Brazil, utilizando React, Golang e inteligência artificial.
+- **[Projeto Integrador backend](https://github.com/Projeto-Integrador-FlosNexu/back-end)**: Projeto focado em facilitar o acesso à energia limpa atravez de um e-commerce, criado no Bootcamp Generation Brasil.
 - **[Transaction Producer MS](https://github.com/growthfolio/transaction-producer-ms)**: Microsserviço em Golang para processamento e envio de transações financeiras.
 - **[API Restful com Node.js](https://github.com/growthfolio/node-task-manager)**: Back-end simples que utiliza Node.js, MongoDB e autenticação JWT para gerenciamento de tarefas.
 - **[To-Do List](https://github.com/growthfolio/nest-taskmanager-app)**: Aplicação funcional para listas de tarefas, desenvolvida com Nest.js.
@@ -40,7 +41,7 @@ Se você quer ver o que já criei, aqui estão alguns destaques:
 - **[Spring Bookstore Management](https://github.com/growthfolio/spring-bookstore-management)**: Sistema de gestão de livrarias com Spring Boot, para gerenciamento de inventário e vendas.
 - **[React Game Store Front](https://github.com/growthfolio/react-gamestore-front)**: Frontend de uma loja de games, com operações CRUD e autenticação.
 - **[Dev Cloud Challenge](https://github.com/growthfolio/dev-cloud-challenge)**: API RESTful desenvolvida em Go, implementando CRUD para gerenciamento de dados de estudantes.
-- **[Projeto Integrador Documentos](https://github.com/felipemacedo1/Projeto_Integrador_Documentos)**: Projeto focado em facilitar o acesso à energia limpa, criado no Bootcamp Generation Brasil.
+
 
 
 
