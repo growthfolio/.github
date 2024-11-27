@@ -7,11 +7,13 @@ Este é o repositório central que documenta minha trajetória de aprendizado, c
 
 ## 🕒 Minha Trajetória
 Aqui está um resumo de como tudo começou e como está indo:
-- **2022 (2º semestre)**: Iniciei minha graduação em **Tecnólogo em Gestão da Tecnologia da Informação**. Foi o primeiro passo da minha imersão no mundo da tecnologia.
-- **2023 (1º trimestre)**: Concluí um bootcamp focado em **front-end**, mergulhando em HTML, CSS, JavaScript e React.
-- **2023 (2º trimestre)**: Descobri a programação com **Python** e finalizei um curso introdutório.
-- **2024 (2º semestre)**: Participei do **Llama Impact Hackathon: Brazil**, criando uma plataforma educacional sustentável que une tecnologia e impacto social.
-- **2024 (final do ano)**: Concluí minha graduação e finalizei um bootcamp com foco em **AWS**.
+- **2022 (2º semestre)**: Iniciei minha graduação em **Tecnólogo em Gestão da Tecnologia da Informação**, marcando o início da minha jornada na área de tecnologia.
+- **2023 (1º semestre)**: Concluí um bootcamp focado em **front-end**, aprendendo HTML, CSS, JavaScript e React.
+- **2023 (2º semestre)**: Finalizei um Bootcamp **Java Web Full Stack** e também obtive a certificação **Azure Fundamentals (AZ-900)**.
+- **2024 (1º semestre)**: Iniciei minha atuação como **Desenvolvedor Back-end JR** em uma Fintech, focando em microsserviços, APIs e integrações com AWS.
+- **2024 (2º semestre)**: Participei do **Llama Impact Hackathon: Brazil**, desenvolvendo uma plataforma educacional sustentável com tecnologias como React, Golang e inteligência artificial.
+- **2024 (2º semestre)**: Concluindo o bootcamp **AWS Restart** e conclui o penultimo minha graduação, com previsão de término em 2025.
+
 
 ---
 
@@ -26,14 +28,22 @@ O aprendizado nunca para! Estes são alguns dos próximos passos no meu caminho:
 ## 📂 Projetos
 Se você quer ver o que já criei, aqui estão alguns destaques:
 
-### Bootcamps e Hackathons
-- **[Portfolio Front-End](https://github.com/Growthfolio/repo-portfolio)**: Uma página web responsiva criada com HTML, CSS e React.
-- **[Plataforma Educacional Sustentável](https://github.com/Growthfolio/repo-hackathon)**: Projeto desenvolvido durante o Llama Impact Hackathon: Brazil.
-- **[API Restful com Node.js](https://github.com/Growthfolio/repo-api-rest)**: Back-end que integra MongoDB e autenticação JWT.
+#### Projetos de Estudo desenvolvidos em Bootcamps e Hackathons
 
-### Projetos de Estudo
-- **[To-Do List](https://github.com/Growthfolio/repo-todo)**: Uma aplicação simples e funcional para listas de tarefas, feita com React.
-- **[Weather App](https://github.com/Growthfolio/repo-weather)**: Consulta de previsão do tempo utilizando APIs públicas.
+- **[Plataforma Educacional Sustentável](https://github.com/felipemacedo1/hacka-llama-react)**: Projeto desenvolvido durante o Llama Impact Hackathon: Brazil, utilizando React, Golang e inteligência artificial.
+- **[Transaction Producer MS](https://github.com/growthfolio/transaction-producer-ms)**: Microsserviço em Golang para processamento e envio de transações financeiras.
+- **[API Restful com Node.js](https://github.com/growthfolio/node-task-manager)**: Back-end simples que utiliza Node.js, MongoDB e autenticação JWT para gerenciamento de tarefas.
+- **[To-Do List](https://github.com/growthfolio/nest-taskmanager-app)**: Aplicação funcional para listas de tarefas, desenvolvida com Nest.js.
+- **[React Blog Platform](https://github.com/growthfolio/react-blog-plataform)**: Frontend de um blog pessoal, construído com React e Tailwind CSS.
+- **[Spring Blog Platform](https://github.com/growthfolio/spring-blog-platform)**: Aplicação web desenvolvida em Java com Spring, permitindo criação e compartilhamento de postagens.
+- **[Google Auth Preview](https://github.com/growthfolio/google-auth-preview)**: Interface simples para testes e manipulação de tokens OAuth 2.0 do Google.
+- **[Spring Bookstore Management](https://github.com/growthfolio/spring-bookstore-management)**: Sistema de gestão de livrarias com Spring Boot, para gerenciamento de inventário e vendas.
+- **[React Game Store Front](https://github.com/growthfolio/react-gamestore-front)**: Frontend de uma loja de games, com operações CRUD e autenticação.
+- **[Dev Cloud Challenge](https://github.com/growthfolio/dev-cloud-challenge)**: API RESTful desenvolvida em Go, implementando CRUD para gerenciamento de dados de estudantes.
+- **[Projeto Integrador Documentos](https://github.com/felipemacedo1/Projeto_Integrador_Documentos)**: Projeto focado em facilitar o acesso à energia limpa, criado no Bootcamp Generation Brasil.
+
+
+
 
 ---
 
