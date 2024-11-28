@@ -1,7 +1,7 @@
 
 # 🌱 Growthfolio
 Bem-vindo ao **Growthfolio**!  
-Este é o repositório central que documenta minha trajetória de aprendizado, capacitações e projetos de estudo desenvolvidos desde o inicio da minha trajetoria como desenvolvedor. Aqui, você vai encontrar uma linha do tempo com minhas conquistas, links para projetos realizados e planos para o futuro. Tudo isso com um toque pessoal para deixar a experiência mais acolhedora. 😊
+Este é o repositório central que documenta minha trajetória de aprendizado, capacitações e projetos de estudo desenvolvidos desde o inicio da minha trajetoria como desenvolvedor. Aqui, você vai encontrar uma linha do tempo com minhas conquistas, links para projetos realizados e alguns planos para o futuro. 😊
 
 ---
 
