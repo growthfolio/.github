@@ -1,5 +1,5 @@
 
-> **Nota:** EEsta Organização está em processo de organização! 😄 Alguns conteúdos podem estar perdidos por aí, escondidos, ou ainda sendo documentados em um bunker secreto. Quem sabe? Dê alguns dias... o tempo dirá (ou talvez nem ele saiba). 🤔✨
+> **Nota:** Esta Organização está em processo de organização! 😄 Alguns conteúdos podem estar perdidos por aí, escondidos, ou ainda sendo documentados em um bunker secreto. Quem sabe? Dê alguns dias... o tempo dirá (ou talvez nem ele saiba). 🤔✨
 
 # 🌱 Growthfolio
 Bem-vindo ao **Growthfolio**!  
