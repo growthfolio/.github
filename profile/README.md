@@ -1,9 +1,12 @@
 
-> **Nota:** Esta Organização está em processo de organização! 😄 Alguns conteúdos podem estar perdidos por aí, escondidos, ou ainda sendo documentados em um bunker secreto. Quem sabe? Dê alguns dias... o tempo dirá (ou talvez nem ele saiba). 🤔✨
+> **Nota:** Esta Organização está em processo de organização! 😄 Alguns conteúdos podem estar perdidos por aí, escondidos, ou ainda sendo documentados em um bunker secreto. Quem sabe? Dê alguns dias... o tempo dirá (ou talvez nem ele saiba). 🤔
 
 # 🌱 Growthfolio
 Bem-vindo ao **Growthfolio**!  
 Este é o repositório central que documenta minha trajetória de aprendizado, capacitações e projetos de estudo desenvolvidos desde o inicio da minha trajetoria como desenvolvedor. Aqui, você vai encontrar uma linha do tempo com minhas conquistas, links para projetos realizados e alguns planos para o futuro. 😊
+
+#### 🧑‍💻 Quem sou eu
+Desenvolvedor Full-Stack, fã de boas ideias e soluções práticas. Quando não estou codando, provavelmente estou pensando em como otimizar algum projeto. Bora inovar? 🚀
 
 ---
 
