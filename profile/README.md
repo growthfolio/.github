@@ -55,7 +55,7 @@ Se você quer ver o que já criei, aqui estão alguns destaques:
 
 ## 🌟 Sobre o Growthfolio
 Este espaço foi criado com três objetivos principais:
-1. Centralizar todos os projetos e iniciativas que desenvolvi ao longo da minha jornada.
+1. Centralizar todos os projetos e iniciativas que desenvolvi ao longo da minha jornada estudando desenvolvimento web.
 2. Documentar minha evolução na área de tecnologia de forma transparente e inspiradora.
 3. Compartilhar aprendizados com a comunidade e incentivar outras pessoas a explorar o mundo da tecnologia.
 
