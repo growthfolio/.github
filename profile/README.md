@@ -1,66 +1,104 @@
-
 > **Nota:** Esta Organização está em processo de organização! 😄 Alguns conteúdos podem estar perdidos por aí, escondidos, ou ainda sendo documentados em um bunker secreto. Quem sabe? Dê alguns dias... o tempo dirá (ou talvez nem ele saiba). 🤔
 
 # 🌱 Growthfolio
-Bem-vindo ao **Growthfolio**!  
-Este é o repositório central que documenta minha trajetória de aprendizado, capacitações e projetos de estudo desenvolvidos desde o inicio da minha trajetoria como desenvolvedor. Aqui, você vai encontrar uma linha do tempo com minhas conquistas, links para projetos realizados e alguns planos para o futuro. 😊
+
+Bem-vindo ao **Growthfolio**!
+Este é o repositório central que documenta minha trajetória de aprendizado, capacitações e projetos de estudo desenvolvidos desde o início da minha carreira como desenvolvedor. Aqui você encontra:
+
+* Uma **linha do tempo** com minhas principais conquistas
+* Links para **projetos** realizados
+* Planos e metas para o **futuro**
 
 #### 🧑‍💻 Quem sou eu
-**[Felipe Macedo](https://github.com/felipemacedo1)** Desenvolvedor Full-Stack, fã de boas ideias e soluções práticas. Quando não estou codando, provavelmente estou pensando em como otimizar algum projeto. Bora inovar? 🚀
+
+**[Felipe Macedo](https://github.com/felipemacedo1)** — Desenvolvedor Full-Stack apaixonado por soluções práticas e escaláveis. Quando não estou codando, provavelmente estou pensando em como otimizar algoritmos ou arquiteturas de sistema. Bora inovar? 🚀
 
 ---
 
-## 🕒 Minha Trajetória
-Aqui está um resumo de como tudo começou e como está indo:
-- **2022 (2º semestre)**: Iniciei minha graduação em **Tecnólogo em Gestão da Tecnologia da Informação**, marcando o início da minha jornada na área de tecnologia.
-- **2023 (1º semestre)**: Concluí um bootcamp focado em **front-end**, aprendendo HTML, CSS, JavaScript e React.
-- **2023 (2º semestre)**: Finalizei um Bootcamp **Java Web Full Stack** e também obtive a certificação **Azure Fundamentals (AZ-900)**.
-- **2024 (1º semestre)**: Iniciei minha atuação como **Desenvolvedor Back-end JR** em uma Fintech, focando em microsserviços, APIs e integrações com AWS.
-- **2024 (2º semestre)**: Participei do **Llama Impact Hackathon: Brazil**, desenvolvendo uma plataforma educacional sustentável com tecnologias como React, Golang e inteligência artificial.
-- **2024 (2º semestre)**: Concluindo o bootcamp **AWS Restart** e conclui o penultimo minha graduação, com previsão de término em 2025.
+## 🕒 Jornada no Tempo
 
-
----
-
-## 🚀 Capacitações Futuras
-O aprendizado nunca para! Estes são alguns dos próximos passos no meu caminho:
-- Obter a **Certificação AWS Solutions Architect**.
-- Realizar a **Certificação GitHub Administration**.
-- Estudar **Inteligência Artificial** e **Machine Learning** para criar soluções mais inteligentes.
+| Ano (Semestre)         | Conquista / Experiência                                                                                       |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------- |
+| **2022 (2º semestre)** | Início da graduação em **Tecnólogo em Gestão da TI** (Anhembi Morumbi).                                       |
+| **2023 (1º semestre)** | Bootcamp de **Front‑end** (HTML, CSS, JavaScript, React).                                                     |
+| **2023 (2º semestre)** | Bootcamp **Java Web Full Stack**; certificação **Azure Fundamentals (AZ‑900)**.                               |
+| **2024 (1º semestre)** | Desenvolvedor Back‑end JR em Fintech — microsserviços, APIs e AWS.                                            |
+| **2024 (2º semestre)** | Hackathon **Llama Impact: Brazil** — Plataforma Educacional Sustentável (React, Go, IA).                      |
+| **2024 (2º semestre)** | Conclusão do bootcamp **AWS re/Start**; conclusão prevista do Tecnólogo em TI (dez/2024).                     |
+| **2025 (1º semestre)** | Início como **Analista de Sistemas** na **Sansuy S.A.** (mar/2025). Desenvolvedor Full‑Cycle (web & desktop). |
+| **2025 (2º semestre)** | Matrícula em **Bacharelado em Ciência da Computação** (FMU) — início jul/2025.                                |
+|                        | Evolução do projeto **PriceGuard API** (Go, CoinGecko, Binance, Redis, PostgreSQL, WebSockets, alertas).      |
 
 ---
 
-## 📂 Projetos
-Se você quer ver o que já criei, aqui estão alguns destaques:
+## 🚀 Próximas Fronteiras
 
-#### Projetos de Estudo desenvolvidos em Bootcamps e Hackathons
-
-- **[Plataforma Educacional Sustentável](https://github.com/felipemacedo1/hacka-llama-react)**: Projeto desenvolvido durante o Llama Impact Hackathon: Brazil, utilizando React, Golang e inteligência artificial.
-- **[Projeto Integrador backend](https://github.com/Projeto-Integrador-FlosNexu/back-end)**: Projeto focado em facilitar o acesso à energia limpa atravez de um e-commerce, criado no Bootcamp Generation Brasil.
-- **[Transaction Producer MS](https://github.com/growthfolio/transaction-producer-ms)**: Microsserviço em Golang para processamento e envio de transações financeiras.
-- **[API Restful com Node.js](https://github.com/growthfolio/node-task-manager)**: Back-end simples que utiliza Node.js, MongoDB e autenticação JWT para gerenciamento de tarefas.
-- **[To-Do List](https://github.com/growthfolio/nest-taskmanager-app)**: Aplicação funcional para listas de tarefas, desenvolvida com Nest.js.
-- **[React Blog Platform](https://github.com/growthfolio/react-blog-plataform)**: Frontend de um blog pessoal, construído com React e Tailwind CSS.
-- **[Spring Blog Platform](https://github.com/growthfolio/spring-blog-platform)**: Aplicação web desenvolvida em Java com Spring, permitindo criação e compartilhamento de postagens.
-- **[Google Auth Preview](https://github.com/growthfolio/google-auth-preview)**: Interface simples para testes e manipulação de tokens OAuth 2.0 do Google.
-- **[Spring Bookstore Management](https://github.com/growthfolio/spring-bookstore-management)**: Sistema de gestão de livrarias com Spring Boot, para gerenciamento de inventário e vendas.
-- **[React Game Store Front](https://github.com/growthfolio/react-gamestore-front)**: Frontend de uma loja de games, com operações CRUD e autenticação.
-- **[Dev Cloud Challenge](https://github.com/growthfolio/dev-cloud-challenge)**: API RESTful desenvolvida em Go, implementando CRUD para gerenciamento de dados de estudantes.
-
-
-
-
+1. **Janeiro 2026**: Início de Pós‑graduação em Engenharia de Software ou Arquitetura de Software.
+2. Certificação **AWS Solutions Architect – Associate**.
+3. Certificação **GitHub Administration**.
+4. Cursos de **IA e Machine Learning** aplicados a desenvolvimento web.
+5. Especialização em **Prompt Engineering** e **LLMs** (LLaMA, GPT).
 
 ---
 
-## 🌟 Sobre o Growthfolio
-Este espaço foi criado com três objetivos principais:
-1. Centralizar todos os projetos e iniciativas que desenvolvi ao longo da minha jornada estudando desenvolvimento web.
-2. Documentar minha evolução na área de tecnologia de forma transparente e inspiradora.
-3. Compartilhar aprendizados com a comunidade e incentivar outras pessoas a explorar o mundo da tecnologia.
+## 📂 Vitrine de Projetos
 
-Se você tem dúvidas, sugestões ou quer colaborar, sinta-se à vontade para entrar em contato ou explorar meus repositórios!
+### 🏁 Bootcamps & Hackathons
+
+* **[hacka-llama-react](https://github.com/felipemacedo1/hacka-llama-react)**
+  Plataforma Educacional Sustentável — React, Go, IA. (Llama Impact Hackathon: Brazil)
+
+* **[Projeto-Integrador-FlosNexu/back-end](https://github.com/Projeto-Integrador-FlosNexu/back-end)**
+  E‑commerce de energia limpa — Node.js, MongoDB, JWT. (Bootcamp Generation Brasil)
+
+### 🛠️ Microserviços & APIs
+
+* **[transaction-producer-ms](https://github.com/growthfolio/transaction-producer-ms)**
+  Microsserviço em Go para envio de transações financeiras.
+
+* **[go-priceguard-api](https://github.com/growthfolio/go-priceguard-api)**
+  API de monitoramento de cripto (CoinGecko, Binance WebSocket, Redis, PostgreSQL, alertas).
+
+* **[node-task-manager](https://github.com/growthfolio/node-task-manager)**
+  API RESTful Node.js + MongoDB para gerenciamento de tarefas.
+
+* **[nest-taskmanager-app](https://github.com/growthfolio/nest-taskmanager-app)**
+  To‑Do List com Nest.js.
+
+### 🎨 Front‑end & Web Apps
+
+* **[react-blog-plataform](https://github.com/growthfolio/react-blog-plataform)**
+  Blog pessoal em React + Tailwind CSS.
+
+* **[spring-blog-platform](https://github.com/growthfolio/spring-blog-platform)**
+  Plataforma de postagem com Java Spring Boot.
+
+* **[react-gamestore-front](https://github.com/growthfolio/react-gamestore-front)**
+  Loja de games com React — CRUD e autenticação.
+
+* **[google-auth-preview](https://github.com/growthfolio/google-auth-preview)**
+  Testes de token OAuth 2.0 do Google.
+
+### 📦 Outras Aventuras
+
+* **[spring-bookstore-management](https://github.com/growthfolio/spring-bookstore-management)**
+  Gestão de livrarias com Spring Boot.
+
+* **[dev-cloud-challenge](https://github.com/growthfolio/dev-cloud-challenge)**
+  API RESTful em Go para dados de estudantes.
 
 ---
 
-> **Nota:** Este README será atualizado continuamente para refletir novos projetos, conquistas e aprendizados. Volte sempre para conferir as novidades! 😄
+## 🌟 Por que o Growthfolio?
+
+Este espaço foi criado com três propósitos:
+
+1. **Centralizar** projetos e iniciativas da minha jornada como desenvolvedor.
+2. **Documentar** minha evolução na área de TI de forma transparente.
+3. **Compartilhar** aprendizados e inspirar a comunidade.
+
+Se tiver dúvidas, sugestões ou quiser colaborar, fique à vontade para abrir uma issue ou enviar um pull request!
+
+---
+
+> **Nota:** Este README será atualizado continuamente para refletir novas conquistas e aprendizados. Volte sempre para conferir as novidades! 😄
