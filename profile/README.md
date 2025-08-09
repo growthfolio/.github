@@ -27,7 +27,7 @@ Este é o repositório central que documenta minha trajetória de aprendizado, c
 | **2024 (2º semestre)** | Conclusão do bootcamp **AWS re/Start**; conclusão prevista do Tecnólogo em TI (dez/2024).                     |
 | **2025 (1º semestre)** | Início como **Analista de Sistemas** na **Sansuy S.A.** (mar/2025). Desenvolvedor Full‑Cycle (web & desktop). |
 | **2025 (2º semestre)** | Matrícula em **Bacharelado em Ciência da Computação** (FMU) — início jul/2025.                                |
-|                        | Evolução do projeto **PriceGuard API** (Go, CoinGecko, Binance, Redis, PostgreSQL, WebSockets, alertas).      |
+|                        | Evolução de projetos voltados para o aprimoramento em prompt engineering, enquanto desenvolvo habilidades úteis como automação, integração com APIs, análise de dados, soluções em nuvem e aplicação prática de IA.|
 
 ---
 
